@@ -1,8 +1,8 @@
 {
   "users": {
-    "TEST001": {
-      "name": "테스트",
-      "expire_date": "2026-12-31",
+    "JM-0001": {
+      "name": "프로그램 문의는 텔레그램 @roqkfwk1 입니다",
+      "expire_date": "2026-08-03",
       "status": "active"
     }
   }
