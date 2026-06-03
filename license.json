@@ -1,9 +1,22 @@
 {
-  "users": {
-    "JUMP-001": {
-      "name": "사용자1",
-      "expire_date": "2026-08-03",
-      "status": "active"
+    "users": {
+        "JM-0001": {
+            "name": "사용자1",
+            "hwid": "",
+            "expire_date": "2026-08-03",
+            "status": "active"
+        },
+        "JM-Master": {
+            "name": "마스터",
+            "hwid": "",
+            "expire_date": "2050-01-01",
+            "status": "active"
+        },
+        "JM-0003": {
+            "name": "사용자2",
+            "hwid": "",
+            "expire_date": "2026-08-03",
+            "status": "active"
+        }
     }
-  }
 }
