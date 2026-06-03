@@ -6,11 +6,11 @@
             "expire_date": "2026-07-03",
             "status": "active"
         },
-        "JM-FREE": {
+        "JM-FE": {
             "name": "무료사용자",
             "hwid": "*",
             "expire_date": "2050-01-01",
-            "status": "inactive"
+            "status": "active"
         },
         "JM-111": {
             "name": "사용자2",
