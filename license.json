@@ -6,8 +6,8 @@
             "expire_date": "2026-08-03",
             "status": "active"
         },
-        "JM-MASTER": {
-            "name": "마스터",
+        "JM-FREE": {
+            "name": "무료사용자",
             "hwid": "*",
             "expire_date": "2050-01-01",
             "status": "active"
