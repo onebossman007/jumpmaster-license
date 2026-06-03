@@ -1,0 +1,9 @@
+{
+  "users": {
+    "TEST001": {
+      "name": "테스트",
+      "expire_date": "2026-12-31",
+      "status": "active"
+    }
+  }
+}
