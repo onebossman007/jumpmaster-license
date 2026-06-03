@@ -1,8 +1,8 @@
 {
     "users": {
-        "JM-0001": {
+        "JM-001": {
             "name": "사용자1",
-            "hwid": "",
+            "hwid": "5025763499932",
             "expire_date": "2026-08-03",
             "status": "active"
         },
@@ -12,7 +12,7 @@
             "expire_date": "2050-01-01",
             "status": "active"
         },
-        "JM-0003": {
+        "JM-003": {
             "name": "사용자2",
             "hwid": "",
             "expire_date": "2026-08-03",
