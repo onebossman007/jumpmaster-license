@@ -2,17 +2,17 @@
     "users": {
         "JM-001": {
             "name": "무료계정",
-            "hwid": "272903326796984",
-            "expire_date": "2026-08-03",
+            "hwid": "272903326796984,5025763499932",
+            "expire_date": "2026-07-03",
             "status": "active"
         },
         "JM-FREE": {
             "name": "무료사용자",
             "hwid": "*",
             "expire_date": "2050-01-01",
-            "status": "active"
+            "status": "inactive"
         },
-        "JM-003": {
+        "JM-111": {
             "name": "사용자2",
             "hwid": "",
             "expire_date": "2026-08-03",
