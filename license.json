@@ -7,13 +7,13 @@
             "status": "active"
         },
         "JM-FE": {
-            "name": "무료사용자",
+            "name": "마스터",
             "hwid": "*",
             "expire_date": "2050-01-01",
             "status": "active"
         },
-        "JM-111": {
-            "name": "사용자2",
+        "DBFY1": {
+            "name": "유료사용자",
             "hwid": "",
             "expire_date": "2026-08-03",
             "status": "active"
